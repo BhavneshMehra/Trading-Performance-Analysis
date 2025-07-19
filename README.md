@@ -1,7 +1,5 @@
 # Trading-Performance-Analysis
-# Re-creating the README.md content with a clean, professional format for this trading analysis project
 
-readme_text = """
 # 📊 Trading Performance Analysis (BSE/NSE)
 
 This project performs in-depth analysis of historical trading data (equity & options), identifying profitable and loss-making strike prices, summarizing performance, and visualizing key metrics.
