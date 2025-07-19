@@ -39,13 +39,13 @@ This project performs in-depth analysis of historical trading data (equity & opt
 ## 📈 Sample Visuals
 
 ### 🔼 Profitable Strikes
-![Profitable Strikes](Trading-Performance-Analysis/ALLprofitablestrikes.png)
+![Profitable Strikes](main/ALLprofitablestrikes.png)
 
 ### 🔽 Losing Strikes
-![Losing Strikes](Trading-Performance-Analysis/alllosingstrikes.png)
+![Losing Strikes](main/alllosingstrikes.png)
 
 ### 🎯 Top 3 Profit vs Loss Probability
-![Top 3 Probabilities](Trading-Performance-Analysis/top3lossesprofitprobability.png)
+![Top 3 Probabilities](main/top3lossesprofitprobability.png)
 
 
 ## 🧪 How to Run
