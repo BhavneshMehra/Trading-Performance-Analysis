@@ -18,34 +18,16 @@ This project performs in-depth analysis of historical trading data (equity & opt
 
 ---
 
-## 🗂 Project Structure
-
-├── data/ # Raw input data (CSV)
-│ └── 30th jun nse bse.csv
-├── notebooks/ # Jupyter Notebook with full analysis
-│ └── analysis300625.ipynb
-├── output/ # Processed Excel output
-│ └── modified_data.xlsx
-├── images/ # Plots and graphs
-│ ├── ALLprofitablestrikes.png
-│ ├── alllosingstrikes.png
-│ └── top3lossesprofitprobability.png
-├── requirements.txt # Python package requirements
-└── README.md # Project documentation
-
-
----
-
 ## 📈 Sample Visuals
 
 ### 🔼 Profitable Strikes
-![Profitable Strikes](main/ALLprofitablestrikes.png)
+![Profitable Strikes](Trading-Performance-Analysis/blob/main/ALLprofitablestrikes.png)
 
 ### 🔽 Losing Strikes
-![Losing Strikes](main/alllosingstrikes.png)
+![Losing Strikes](Trading-Performance-Analysis/blob/main/alllosingstrikes.png)
 
 ### 🎯 Top 3 Profit vs Loss Probability
-![Top 3 Probabilities](main/top3lossesprofitprobability.png)
+![Top 3 Probabilities](Trading-Performance-Analysis/blob/main/top3lossesprofitprobability.png)
 
 
 ## 🧪 How to Run
@@ -70,7 +52,7 @@ Jupyter Notebook
 Excel (XLSX output)
 
 📁 Dataset
-File: 30th jun nse bse.csv
+File: ![30th jun nse bse.csv]
 Columns include:
 
 Symbol, Buy/Sell Qty & Price
@@ -83,4 +65,4 @@ User ID, Exchange Info
 
 👨‍💻 Author
 Bhavnesh Mehra
-🔗 GitHub Profile
+
