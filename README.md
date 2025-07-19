@@ -52,7 +52,8 @@ Jupyter Notebook
 Excel (XLSX output)
 
 📁 Dataset
-File: ![30th jun nse bse.csv]
+File: ![30th jun nse bse.csv](30th%20jun%20nse%20bse.csv)
+
 Columns include:
 
 Symbol, Buy/Sell Qty & Price
